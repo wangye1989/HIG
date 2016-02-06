@@ -9,20 +9,20 @@ History versions of Human Interface Guidelines
 * 2014-12-18 Added a chapter with HealthKit guidance and a chapter with Apple Pay guidance.
 * 2014-10-20 Made minor corrections and enhanced color contrast guidelines.
 * 2014-09-17 Updated for iOS 8; included guidelines for designing more flexible layouts and creating app extensions.
-* 2014-03-10 Added guidelines about onboarding; made minor corrections and updated some artwork.
+* [2014-03-10](iOS%20Human%20Interface%20Guidelines%20(2014-03-10)%20(iOS%207%20Fin).pdf) Added guidelines about onboarding; made minor corrections and updated some artwork.
 * 2014-02-11 Corrected typos and replaced some outdated artwork.
 * 2013-10-22 Added app icon size for high resolution iPad mini, corrected Newsstand icon sizes, and reinstated iPhone 5 design guidelines.
 * 2013-09-18 Reorganized and updated for iOS 7.
 
-* 2013-06-10 Reorganized and updated for iOS 7.
+* [2013-06-10](iOS%20Human%20Interface%20Guidelines%20(2013-06-10)%20(iOS%207).pdf) Reorganized and updated for iOS 7.
 
-* 2012-03-07 Described additional icon sizes.
+* [2012-03-07](iOS%20Human%20Interface%20Guidelines%20(2012-03-07)%20(iOS%205).pdf) Described additional icon sizes.
 * 2011-10-12 Updated for iOS 5. Described iCloud user experience guidelines and appearance customization capabilities for UI elements.
-* 2011-03-23 Made minor corrections.
+* [2011-03-23](iOS%20Human%20Interface%20Guidelines%20(2011-03-23).pdf) Made minor corrections.
 * 2011-02-24 Described how to display full screen banner ads in an iPad app.
-* 2011-01-03 Made minor corrections.
+* [2011-01-03](iOS%20Human%20Interface%20Guidelines%20(2011-01-03).pdf) Made minor corrections.
 * 2010-12-10 Edited for content and clarity.
-* 2010-11-15 Changed the title from iPhone Human Interface Guidelines. Updated to include iPad and iPhone guidelines, including guidelines for iPhone web applications.
+* [2010-11-15](iOS%20Human%20Interface%20Guidelines%20(2010-11-15).pdf) Changed the title from iPhone Human Interface Guidelines. Updated to include iPad and iPhone guidelines, including guidelines for iPhone web applications.
 * 2010-06-03 Described how to accommodate multitasking, design local notifications, and host ads.
 * 2010-05-12 Described how to accommodate multitasking, design local notifications, and host ads.
 * 2010-03-24 Enhanced guidelines for designing an alert.
