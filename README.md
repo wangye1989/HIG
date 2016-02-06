@@ -36,3 +36,20 @@ History versions of Human Interface Guidelines
 * 2008-11-21 Expanded guidelines for using sound in iPhone applications and made minor corrections.
 * 2008-09-09 Transferred web-specific guidelines to iPhone Human Interface Guidelines for Web Applications.
 * 2008-06-27 New document that describes how to design the user interface of an iPhone application and provides guidelines for creating web content for iOS-based devices.
+
+## Donate
+
+You can support me by:
+
+* sending me iTunes Gift Cards;
+* via [Alipay](https://www.alipay.com): elethomhunter@gmail.com
+* via [PayPal](https://www.paypal.com): elethomhunter@gmail.com
+
+:-)
+
+## Contact
+
+* [Telegram](http://telegram.me/elethom)
+* [Email](mailto:elethomhunter@gmail.com)
+* [Twitter](https://twitter.com/elethomhunter)
+* [Blog](http://blog.projectrhinestone.org)
